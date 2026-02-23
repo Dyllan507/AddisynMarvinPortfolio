@@ -1,0 +1,27 @@
+#about {
+
+}
+
+.headings {
+    display: flex;
+    justify-content: center;
+}
+
+#contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#headshot {
+    width: 300px;
+    height: auto;
+}
+#headshot-container {
+    display: flex;
+    justify-content: center;
+}
+#statement-and-accolades {
+    display: flex;
+    justify-content: center;
+}
