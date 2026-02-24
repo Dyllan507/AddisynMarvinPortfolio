@@ -17,10 +17,6 @@
     display: flex;
     justify-content: center;
 }
-#statement-and-accolades {
-    display: flex;
-    justify-content: center;
-}
 
 #grid-layout h4 {
     text-align: center;
@@ -44,4 +40,31 @@
 .image-group img {
     height: 300px;
     width: auto;
+}
+
+#about {
+    background-color: pink;
+    margin: 0;
+    overflow: hidden;
+}
+
+#works {
+    background-color: orange;
+    margin: 0;
+    overflow: hidden;
+}
+
+#statement {
+    position: absolute;
+    top: 75px;
+    left: 200px;
+    padding: 5px;
+
+}
+
+#accolades {
+    position: absolute;
+    top: 75px;
+    left: 1200px;
+    padding: 5px;
 }
