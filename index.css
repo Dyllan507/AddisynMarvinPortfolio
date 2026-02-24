@@ -46,6 +46,7 @@
     background-color: pink;
     margin: 0;
     overflow: hidden;
+    padding-bottom: 50px;
 }
 
 #works {
